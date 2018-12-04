@@ -1,0 +1,120 @@
+body{
+  background-color:  #ffd11a;
+  background-image: url("https://media.giphy.com/media/boqxHlnQOnpeg/giphy.gif");
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border: solid;
+  border-width: thick;
+  border-radius: 15px;
+  border-color: green;
+}
+
+h1{
+  color: black;
+  font-size: 48px;
+  font-family: fantasy;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+p{
+  color:black;
+  font-size: 20px;
+  font-family: fantasy;
+  font-style: normal;
+  text-align: center;
+}
+
+
+ol{
+  color:black;
+  font-size:18px;
+  font-family: fantasy;
+  list-style-position: outside;
+}
+
+ul{
+  color:black;
+  font-size:18px;
+  font-family: fantasy;
+  list-style-position: outside;
+}
+
+h2{
+  color: black;
+  font-style:bold;
+  font-size: 30px;
+  font-family: fantasy;
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+h3{
+  color: black;
+  font-style:bold;
+  font-size: 30px;
+  font-family: fantasy;
+  text-align: center;
+  text-decoration-line: underline;
+}
+p1{
+  color:black;
+  font-size:14px;
+  font-family: monospace;
+  font-style: normal;
+}
+
+p2{
+  color:black;
+  font-size:14px;
+  font-family: monospace;
+  font-style: normal;
+
+}
+
+p3{
+  color:black;
+  font-size:14px;
+  font-family: monospace;
+  font-style:italic;
+}
+
+p4{
+  color:black;
+  font-size:20px;
+  font-family: fantasy;
+  font-style: normal;
+}
+
+p5{
+  color:black;
+  font-size:20px;
+  font-family: fantasy;
+  font-style: normal;
+}
+
+p6{
+  color:black;
+  font-size:20px;
+  font-family: fantasy;
+  font-style:normal;
+}
+p7{
+  color:black;
+  font-family: fantasy;
+  font-size:20px;
+}
+
+p8{
+  color:black;
+}
+a{
+  color: black;
+  font-family: fantasy;
+}

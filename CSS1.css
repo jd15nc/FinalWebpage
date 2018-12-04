@@ -1,0 +1,86 @@
+body{
+  background-color: red;
+  background-image: url("https://media.giphy.com/media/boqxHlnQOnpeg/giphy.gif");
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border: solid;
+  border-width: thick;
+  border-radius: 15px;
+  border-color: green;
+}
+
+h1{
+  color: white;
+  font-size: 48px;
+  font-family: fantasy;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+a{
+  color: white;
+  font-family: fantasy;
+}
+
+p{
+  color: white;
+  font-size: 20px;
+  font-family: fantasy;
+  font-style: normal;
+  text-align: center;
+}
+
+p4{
+  color: white;
+  font-size: 20px;
+  font-family: fantasy;
+  font-style: normal;
+}
+
+ol{
+  color: white;
+  font-size: 18px;
+  font-family: fantasy;
+  list-style-position: outside;
+}
+
+h2{color: white;
+font-style: bold;
+font-size: 30px;
+font-family: fantasy;
+text-decoration-line: underline;
+text-decoration-style: solid;
+}
+
+p1{
+  color: white;
+  font-family: monospace;
+  font-size: 14px;
+}
+
+p2{
+  color: white;
+  font-family: monospace;
+  font-size: 14px;
+}
+
+p3{
+  color: white;
+  font-family: monospace;
+  font-size: 14px;
+  font-style: italic;
+}
+
+p5{
+  color: white;
+}
+
+p9{
+  color: white;
+}
